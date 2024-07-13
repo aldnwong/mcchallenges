@@ -10,4 +10,4 @@ It contains different challenges:
     - Only swaps two random players instead of every player
 
 All challenges can be easily toggled in a chat menu that can be found with `/function challenges:menu`.
-Instructions on installing a datapack can be found [here](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack)
+Instructions on installing a datapack can be found [here](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack).
