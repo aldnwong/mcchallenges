@@ -9,3 +9,7 @@ tellraw @a ["",{"text":"EVENT >","bold":true,"color":"gold"},{"text":" Event can
 
 function challenges:menu
 tellraw @s [{"text":"\nEvent cancelled.","color":"red"}]
+scoreboard objectives remove TaggedShow 
+team remove TaggedSidebarMessages_1
+team remove TaggedSidebarMessages_2
+team remove TaggedSidebarMessages_3

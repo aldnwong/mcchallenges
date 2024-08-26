@@ -1,6 +1,6 @@
 scoreboard objectives add WaitKill minecraft.custom:minecraft.player_kills
 scoreboard players set @a WaitKill 0
-bossbar add killevent "§2§lEVENT: §r§aKill another player!"
+bossbar add killevent "§2§lEVENT§r§8: §r§aKill another player!"
 bossbar set minecraft:killevent color green
 bossbar set minecraft:killevent players @a
 bossbar set minecraft:killevent value 100
