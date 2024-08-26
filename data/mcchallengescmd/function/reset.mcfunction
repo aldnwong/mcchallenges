@@ -1,4 +1,4 @@
-scoreboard objectives remove Timer
+scoreboard objectives remove MCC_CMD
 scoreboard objectives remove Lives
 scoreboard objectives remove DeathCheck
 team remove Dead 
